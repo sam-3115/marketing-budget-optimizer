@@ -31,8 +31,3 @@ A company spends a fixed weekly budget across 5 marketing channels (TV, Digital,
 
 ## Tech Stack
 Python, NumPy, Pandas, SciPy (`curve_fit`, `minimize`), Matplotlib
-
-## Suggested Resume Bullet
-> **Marketing Budget Allocation Optimizer** *(Python, SciPy)*
-> - Modeled diminishing-returns response curves for 5 marketing channels from 52 weeks of spend/conversion data using non-linear curve fitting
-> - Formulated and solved a constrained optimization problem (SciPy SLSQP) to reallocate a fixed budget across channels, achieving a projected **+10.9% conversion uplift** (~₹1.29 Cr/year) with no budget increase
